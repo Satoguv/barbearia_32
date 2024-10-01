@@ -26,7 +26,7 @@ and open the template in the editor.
 
                 <h1><span>Serviços disponíveis</span></h1>
 
-                 <ol>
+                <ol>
 
                     <li>
                         <table>
@@ -43,7 +43,7 @@ and open the template in the editor.
                 </table>
                     </li>
                     
-                 </ol>
+                </ol>
                 
                 
             </div>

@@ -21,9 +21,9 @@ and open the template in the editor.
 
         <!-- CORPO DA PÁGINA -->
 
-        <form name="formAtendimento" action="" method="post">
+        <form name="formAtendimento" action="atendimento_salvar.php" method="post">
             <div id="body">
-
+                
                 <h1><span>Agendar atendimento</span></h1>
 
                 <ol>

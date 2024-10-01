@@ -54,7 +54,7 @@ and open the template in the editor.
             </ul>
         </div>
         
-          <!-- Inclusao do rodapé da página que é padrão em todos as páginas do site -->
+        <!-- Inclusao do rodapé da página que é padrão em todos as páginas do site -->
         <?php include 'rodape.php'; ?>
 
 
